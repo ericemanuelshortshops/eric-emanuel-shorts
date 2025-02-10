@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ericemanuelshortshops.github.io/eric-emanuel-shorts/sitemap.xml
